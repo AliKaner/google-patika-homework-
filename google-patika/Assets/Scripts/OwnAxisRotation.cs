@@ -23,6 +23,4 @@ public class OwnAxisRotation : MonoBehaviour
     {
         StartCoroutine(SelfRotation(rb, speed));
     }
-
-    
 }
